@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentences>
+	<sentence>
+		<text>to be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of teodora.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>all the money went into the interior decoration, none of it went to the chefs.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>faan's got a great concept but a little rough on the delivery.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the price is reasonable although the service is poor.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>pricey, but worth a try, at least once.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>unfortunately, the food is outstanding, but everything else about this restaurant is the pits.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>they are often crowded on the weekends but they are efficient and accurate with their service.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>overall a oh ya even though there is waiting it is deff worth it</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>this place is really trendi but they have forgotten about the most important part of a  restaurant, the food.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>service could be improved but overall this is a place that understands the importance of little things (the heavy, black, antique-seeming teapot, for one) in the restaurant experience.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>granted the space is smaller than most, it is the best service you will find in even the largest of restaurants.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the environment is romantic, but the food is horrible, the service is pathetic, and gabriella lies about everything she could.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>if you're craving for haru's great food, especially the house roll, but can't stand the wait building outside, head across the street to their sake bar!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>would have rather tried terrace in the sky or water club for that price</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>they might be all business at the counter when you give your order, but their food says i love you.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>lived in shanghai most of my life and thought the food was comparable to the flagship green bo restaurant there.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>since it literally is a complete hole in the wall, it's a bit intimidating at first, but you get over that very quickly as soon as the friendly staff welcomes you - don't hesitate to ask for help with what to get.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>it costs $2 extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that's not just from the rice.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food is great, service is ok.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the rest of the dim sum, though pricey by chinatown standards, is worth it.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the ambience was nice, but service wasn't so great.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the location and ambience is ok but the food is what makes up for it.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while we thoroughly enjoyed the food, it was annoying to scream across the table for conversation.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while the $20 entree range is not overly expensive, in new york city, there is definitely better food in that range, and so sapphire, despite it's lovely atmosphere, will most likely not be a restaurant to which i will return.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="price" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>prices are higher to dine in and their chicken tikka marsala is quite good.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the restaurant is rather small but we were lucky to get a table quickly.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i was a little leary about mary's at first - it's small, crowded and you usually have to wait on line - but i'm glad i finally tried it.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the restaurant itself is not large, but seems to have several round tables to accommodate large groups hoping to save a buck to eat authentic taiwanese.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="positive"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we were fans of the half-price saturday night option until some inedible squid during a recent visit.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food is reliable and the price is moderate.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while the ambiance and atmosphere were great, the food and service could have been a lot better.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food is usually good but it certainly isn't a relaxing place to go.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>even though its good seafood, the prices are too high.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>my first time there i happened not to like the crab croquette apt that i ordered and they were happy to change it for me without making no big deal.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>however, in the summer of 2003, it seems the management has changed and the great big door has been replaced for a glass front ridding itself of the dark romantic getup.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>outstanding bagels, but you get what you pay for.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while the place is not a hotspot hangout, the drinks are unique and pack a lot of bang for the buck.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>it's a shame that a nice, convenient place like the pink pony can be so ruined by lousy service.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>as much as i like the food there, i can't bring myself to go back.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>nha trang, while being notorious for utter lack of comfort and decor, horribly slow wait staff and horribly quick meals, is one of the best vietnamese restaurants i've ever been to. the pho is delicious and comes with very fresh vegetables.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>if i could rate the people this place would be off the charts - unfortunately - the pizza, sorry - not the best in nyc.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the portions are now very small, the sauces are overly-ambitious usually inedible while the service is still good, the restaurant, due to its popularity, seems frantic.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the service is a little scatty at times but all is forgiven when the food arrives.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the atmosphere isn't the greatest , but i suppose that's how they keep the prices down .</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="neutral"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i would go again if i didn't have to pay.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>delicious food at a great price but do not go here on a cold day and sit by the front door.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>overall, i'm still impressed that the place even exists and the prices are quite decent but then again, its chinatown.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>decent thai food in cute - though a bit dank - little nolita hangout, but service terrible.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>sushi wasn't anything spectacular for the price.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>so, for good food i'd recommend it, but not for a fun night out.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while the food was good (certainly no il mulino) the service was horrendous.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food was very expensive (we spent $160 for lunch for two) but extremely tasty.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we were a group of 8 and well served.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>an excellent alternative to fast food joints and ordering in but, the food was slightly disappointing.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>sometimes i get good food and ok service.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>it's a place for people who pay a lot for mediocre food, noise and a chance to be with their fellow bridge and tunnel folks.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we actually gave 10% tip (which we have never done despite mediocre food and service), because we felt totally ripped off.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while we enjoyed the food, we were highly disappointed by the poor service (waiter was not quite competent and slow service) and lack of remorse.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i have eaten at saul, many times, the food is always consistently, outrageously good.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>although the tables may be closely situated, the candle light, food quality and service overcompensate.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>tasty but expensive.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i am relatively new to the area and tried pick a bagel on 2nd and was disappointed with the service and i thought the food was overrated and on the pricey side.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food is expensive, but worth every bite.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i was in love with pongsri on 48th, but compared to suan it is slow in service and overpriced.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>wait staff is blatantly unappreciative of your business but its the best pie on the uws!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>having discovered ping's on the internet, we entered with qualms but were instantly put to ease by the fish tanks that greet you as u walk in.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>overall the restaurant is more expensive than our other sushi favorites, but everything was delicious.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the menu is prix fixe, so be prepared to spend at least $60 per person, but it is well worth it superb food.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>when we left at 8:00 pm, it was packed and noisy.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>aside from the rushed service, we were very impressed with the food and the drinks.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while the new restaurant still features much of the same classical furniture that made tiffin so attractive, the menu has been overhauled.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the people with carts of food don't understand you because they don't speak english, their job is to give you the delicious food you point at.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>not the greatest sushi place, but excellent for a $19.95 all you can eat.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food was mediocre at best but it was the horrible service that made me vow never to go back.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>other than being a little crowded and a bit overpriced, the atmosphere is filled with energy (and the beautiful people of course) and the food was surprising good!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the first time i went, and was completely taken by the live jazz band and atmosphere, i ordered the lobster cobb salad.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>this place has good potential, but needs a significant amount of work before we can justify spending that much money on indian food you can get everywhere else.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>if you've ever been along the river in weehawken you have an idea of the top of view the chart house has to offer.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>total hipster-wannabe attitude in an otherwise sweet spot.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food was just ok, i would never go back.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>my fiance took me to scopa last week for my birthday and i couldn't believe the food.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>a bit breezy up there on the mezzanine from the wind coming from the tracks.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food itself was just ok - nothing spectacular - but the service was awful.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>however, go for the ambience, and consider the food just a companion for a trip across the world!</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>also, if you don't want to sit at a certain table, you don't have to!</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>a little pricey but it really hits the spot on a sunday morning!</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the staff isn't the friendliest or most competent, and i am stickler for service, but everything else about this place makes up for it.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>service is friendly, prices are good - delivery time was a little slow, but for the way this pizza tastes, i'm willing to overlook it.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="positive"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the place is small and cramped but the food is fantastic.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>a little crowded but they move that line really fast!</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food there is so good that even to order out the wait is incredible.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the service is friendly, if not the most prompt in the world, the food is great, and the prices, while not cheap, won't put your wallet out of commission.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i do suggest to ask to be seated upstairs if you are looking to be a little cozy.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i would recommend roxy's for that, but not for their food.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the puke green walls leave a lot to be desired, but the food is very good.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>no food snobs allowed, this place is for people who appreciate good food.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while sapphire is certainly not lacking in ambiance, and probably has the best decor of any indian restaurant i have been to in new york city, the food was not what i had hoped for.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i have been a longtime fan of holy basil in the east village, and while i do believe their food has slightly slipped in quality, i have been hesitant to be disloyal.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>you don't go to mizu for excellent service, you go for the large amounts of food, the amiable atmosphere, and the hole-in-the-wall feeling of the place.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food here is rather good, but only if you like to wait for it.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we actually left hungry and went across the street to wo hop at 15 mott street for some good chinese food.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>bottom line: b+ for the food, f for the service.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i went here with a friend on a whim, we went someplace else first and couldn't get a table.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>20 minutes for our reservation but it gave us time to have a few cocktails and enjoy our surroundings and each other.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>in any event, even though its a bit on the pricey side, we still love this restaurant and will definitely go back.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>our waiter was fine, the place looks nice in that not-trying-too-hard way, but at those prices, a little more should be expected of your food.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>average to good thai food, but terrible delivery.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the space is nice but when we order our drink we were in for a surprise.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>this is, by far, my favorite restaurant in nyc and i only wish it were more affordable so i could go more often!</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we all had the tasting menu and unlike some of the other reviews, i felt there was more than enough food.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>- for dessert we split chocolate cake and vanilla gelato (with espresso), which were tasty, but i thought a bit overpriced.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we ran a little late for the reservation but it wasn't a problem to get our table immediately.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we arrived on time for our reservation and seated promptly.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>you will pay a lot for the decore, but the food is no better or worse than a lot of other chinese and asian fusion places in ny.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while this is a pretty place in that overly cute french way, the food was insultingly horrible.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>staffs are not that friendly, but the taste covers all.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the tables are crammed way too close, the menu is typical of any italian restaurant, and the wine list is simply overpriced.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the sushi is average and the prices are anything but.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while the room is not particularly comfortable, once you're seated you'll forget about everything except what's on your plate.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i've lived in nyc all my life and had never before seen so many waterbugs in one place (except in a really bad dream).</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>edible but really a ripoff at those prices given whats in the area.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>do not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste.</text>
+		<aspectCategories>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occasion.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the sushi has been from average to below average, the wait service has always been sub-par the atmosphere goes from nice to really irritating (if you sit in the area beyond the kitchen, the acoustics are horrid, everything echoes is extremely loud).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="negative"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>spreads and toppings are great - though a bit pricey.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the cafe itself was really nice with comfortable outdoor chairs and tables, but the service could have been better.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>good food at the restaurant (a bit expensive, but great if you want to impress your date).</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>from the moment we walked in they were more than accommodating even though the place was packed.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the drinks are a saving grace, but service staff, please, get over yourselves.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while this can hardly be called a restaurant, it is possibly the best deal in manhattan: $4 for a plate heaped with rice and 2-3 entrees.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>such nice people working here - but i have to review the food.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the service was mediocre, and the lack of air conditioning made for a less than comfortable meal.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>however, if you want great food at a great price and don't mind the decor, you can't beat this place.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>sake collection was excellent (try nanbu bijin), but pricey.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+</sentences>

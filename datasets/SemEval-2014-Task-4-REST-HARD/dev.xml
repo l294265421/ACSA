@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentences>
+	<sentence>
+		<text>while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>great food but the service was dreadful!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>while it was large and a bit noisy, the drinks were fantastic, and the food was superb.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>yes, they're a bit more expensive then typical, but then again, so is their food.</text>
+		<aspectCategories>
+			<aspectCategory category="price" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>tiny restaurant with very fast service.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food is so good and so popular that waiting can really be a nightmare.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food was definitely good, but when all was said and done, i just couldn't justify it for the price (including 2 drinks, $100/person)...</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>but dinner here is never disappointing, even if the prices are a bit over the top.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>cool atmosphere but such a let down.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>give it a try, menu is typical french but varied.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>we ordered a glass of wine and were finished eating and paying before the wine came.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i have been going to this restaurant for years, in the past the service was average and the food inconsistant.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="neutral"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the appetizers are ok, but the service is slow.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>it's a basic pizza joint, not much to look at, but the pizza is what i go for.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="neutral"/>
+			<aspectCategory category="food" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.</text>
+		<aspectCategories>
+			<aspectCategory category="service" polarity="negative"/>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>it' only open for lunch but the food is so good!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="positive"/>
+			<aspectCategory category="anecdotes/miscellaneous" polarity="neutral"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>how can they survive serving mediocre food at exorbitant prices?!</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>the food was mediocre and the service was severely slow.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="service" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>i have eaten here on a different occasion - the food is mediocre for the prices.</text>
+		<aspectCategories>
+			<aspectCategory category="food" polarity="neutral"/>
+			<aspectCategory category="price" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+	<sentence>
+		<text>although the restaurant itself is nice, i prefer not to go for the food.</text>
+		<aspectCategories>
+			<aspectCategory category="ambience" polarity="positive"/>
+			<aspectCategory category="food" polarity="negative"/>
+		</aspectCategories>
+	</sentence>
+</sentences>

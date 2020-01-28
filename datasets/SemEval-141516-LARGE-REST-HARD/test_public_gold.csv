@@ -1,0 +1,235 @@
+content_id	content	subject	sentiment_value
+0	certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	food	neutral
+1	certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	ambience	positive
+2	while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	food	positive
+3	while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	service	negative
+4	great food but the service was dreadful!	food	positive
+5	great food but the service was dreadful!	service	negative
+6	while it was large and a bit noisy, the drinks were fantastic, and the food was superb.	ambience	negative
+7	while it was large and a bit noisy, the drinks were fantastic, and the food was superb.	food	positive
+8	a nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for seafood lovers.	ambience	neutral
+9	a nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for seafood lovers.	food	positive
+10	yes, they're a bit more expensive then typical, but then again, so is their food.	price	negative
+11	yes, they're a bit more expensive then typical, but then again, so is their food.	food	positive
+12	tiny restaurant with very fast service.	service	positive
+13	tiny restaurant with very fast service.	ambience	neutral
+14	) it's not the best japanese restaurant in the east village, but it's a pretty solid one for its modest prices, and worth repeat visits.	price	positive
+15	) it's not the best japanese restaurant in the east village, but it's a pretty solid one for its modest prices, and worth repeat visits.	misc	neutral
+16	the food is so good and so popular that waiting can really be a nightmare.	food	positive
+17	the food is so good and so popular that waiting can really be a nightmare.	service	negative
+18	the food was definitely good, but when all was said and done, i just couldn't justify it for the price (including 2 drinks, $100/person)...	food	positive
+19	the food was definitely good, but when all was said and done, i just couldn't justify it for the price (including 2 drinks, $100/person)...	price	negative
+20	but dinner here is never disappointing, even if the prices are a bit over the top.	food	positive
+21	but dinner here is never disappointing, even if the prices are a bit over the top.	price	negative
+22	the ambiance was pretty cool, but not worth the hassle.	ambience	neutral
+23	the ambiance was pretty cool, but not worth the hassle.	misc	negative
+24	i just have nothing to say about this place that is negative except that it's not a cheap night out...but it's so worth it.	price	neutral
+25	i just have nothing to say about this place that is negative except that it's not a cheap night out...but it's so worth it.	misc	positive
+26	cool atmosphere but such a let down.	ambience	positive
+27	cool atmosphere but such a let down.	misc	negative
+28	it took 100 years for parisi to get around to making pizza (at least i don't think they ever made it before this year)...but it was worth the wait.	food	positive
+29	it took 100 years for parisi to get around to making pizza (at least i don't think they ever made it before this year)...but it was worth the wait.	misc	neutral
+30	the lack of ac and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.	ambience	negative
+31	the lack of ac and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.	misc	neutral
+32	i love the little pie company as much as anyone else who has written reviews, but must discourage anyone from visiting the grand central location due to their rude service from two sales people.	misc	neutral
+33	i love the little pie company as much as anyone else who has written reviews, but must discourage anyone from visiting the grand central location due to their rude service from two sales people.	service	negative
+34	glechik might be way too tiny for a restaurant by russian standards, but it is cozy and the food is simply great.	ambience	neutral
+35	glechik might be way too tiny for a restaurant by russian standards, but it is cozy and the food is simply great.	food	positive
+36	then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	service	negative
+37	then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	misc	positive
+38	a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	ambience	negative
+39	a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	food	positive
+40	a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	price	positive
+41	give it a try, menu is typical french but varied.	food	neutral
+42	give it a try, menu is typical french but varied.	misc	positive
+43	it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.	ambience	neutral
+44	it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.	service	positive
+45	we ordered a glass of wine and were finished eating and paying before the wine came.	service	negative
+46	we ordered a glass of wine and were finished eating and paying before the wine came.	food	neutral
+47	i have been going to this restaurant for years, in the past the service was average and the food inconsistant.	service	neutral
+48	i have been going to this restaurant for years, in the past the service was average and the food inconsistant.	food	negative
+49	the appetizers are ok, but the service is slow.	food	neutral
+50	the appetizers are ok, but the service is slow.	service	negative
+51	it's a basic pizza joint, not much to look at, but the pizza is what i go for.	ambience	neutral
+52	it's a basic pizza joint, not much to look at, but the pizza is what i go for.	food	positive
+53	good cake but: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	food	neutral
+54	good cake but: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	service	negative
+55	the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	service	negative
+56	the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	food	positive
+57	the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	ambience	negative
+58	the restaurant could use a little paint, but all in all a great sushi place!	ambience	neutral
+59	the restaurant could use a little paint, but all in all a great sushi place!	misc	positive
+60	the food is consistant and good but how it got name best diner in manhattan is beyond me.	food	positive
+61	the food is consistant and good but how it got name best diner in manhattan is beyond me.	misc	neutral
+62	but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	food	neutral
+63	but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	price	positive
+64	i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	food	positive
+65	i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	ambience	positive
+66	i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	misc	neutral
+67	good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	food	neutral
+68	good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	misc	positive
+69	slow service, but when you're hanging around with groups of 10 or 20, who really notices?	service	negative
+70	slow service, but when you're hanging around with groups of 10 or 20, who really notices?	misc	neutral
+71	two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	food	negative
+72	two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	misc	neutral
+73	the service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	service	neutral
+74	the service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	food	positive
+75	the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	food	positive
+76	the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	service	neutral
+77	the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	price	negative
+78	the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	misc	neutral
+79	it' only open for lunch but the food is so good!	food	positive
+80	it' only open for lunch but the food is so good!	misc	neutral
+81	how can they survive serving mediocre food at exorbitant prices?!	food	neutral
+82	how can they survive serving mediocre food at exorbitant prices?!	price	negative
+83	the food was mediocre and the service was severely slow.	food	neutral
+84	the food was mediocre and the service was severely slow.	service	negative
+85	i have eaten here on a different occasion - the food is mediocre for the prices.	food	neutral
+86	i have eaten here on a different occasion - the food is mediocre for the prices.	price	negative
+87	although the restaurant itself is nice, i prefer not to go for the food.	ambience	positive
+88	although the restaurant itself is nice, i prefer not to go for the food.	food	negative
+89	excellent food, although the interior could use some help.	food	positive
+90	excellent food, although the interior could use some help.	ambience	negative
+91	the place is a bit hidden away, but once you get there, it's all worth it.	location	neutral
+92	the place is a bit hidden away, but once you get there, it's all worth it.	restaurant	positive
+93	the space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.	ambience	neutral
+94	the space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.	restaurant	negative
+95	the space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.	food	positive
+96	overpriced japanese food with mediocre service	food	negative
+97	overpriced japanese food with mediocre service	service	neutral
+98	the food was excellent as well as service, however, i left the four seasons very disappointed.	food	positive
+99	the food was excellent as well as service, however, i left the four seasons very disappointed.	service	positive
+100	the food was excellent as well as service, however, i left the four seasons very disappointed.	restaurant	negative
+101	decor needs to be upgraded but the food is amazing!	ambience	negative
+102	decor needs to be upgraded but the food is amazing!	food	positive
+103	the high prices you're going to pay is for the view not for the food.	location	neutral
+104	the high prices you're going to pay is for the view not for the food.	food	negative
+105	the high prices you're going to pay is for the view not for the food.	restaurant	negative
+106	the wine list was extensive - though the staff did not seem knowledgeable about wine pairings.	drinks	positive
+107	the wine list was extensive - though the staff did not seem knowledgeable about wine pairings.	service	negative
+108	the dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.	food	positive
+109	the dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.	service	negative
+110	not what i would expect for the price and prestige of this location.	service	negative
+111	not what i would expect for the price and prestige of this location.	restaurant	neutral
+112	all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	restaurant	positive
+113	all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	ambience	positive
+114	all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	service	negative
+115	over all the looks of the place exceeds the actual meals.	ambience	positive
+116	over all the looks of the place exceeds the actual meals.	food	negative
+117	so what you really end up paying for is the restaurant not the food.	restaurant	negative
+118	so what you really end up paying for is the restaurant not the food.	ambience	neutral
+119	so what you really end up paying for is the restaurant not the food.	food	negative
+120	food took some time to prepare, all worth waiting for.	food	positive
+121	food took some time to prepare, all worth waiting for.	service	neutral
+122	for a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.	restaurant	positive
+123	for a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.	service	negative
+124	despite the confusing mirrors this will likely be my go-to for modern japanese food for the foreseeable future.	food	positive
+125	despite the confusing mirrors this will likely be my go-to for modern japanese food for the foreseeable future.	ambience	negative
+126	not a very fancy place but very good chinese style indian food.	ambience	neutral
+127	not a very fancy place but very good chinese style indian food.	food	positive
+128	for me dishes a little oily, but overall dining experience good.	food	negative
+129	for me dishes a little oily, but overall dining experience good.	restaurant	positive
+130	helpful service and average price per dish $10.	service	positive
+131	helpful service and average price per dish $10.	food	neutral
+132	even though the place is not beautiful, the food speaks for itself.	ambience	negative
+133	even though the place is not beautiful, the food speaks for itself.	food	positive
+134	what you are paying for is the environment and the name.	ambience	neutral
+135	what you are paying for is the environment and the name.	restaurant	negative
+136	yes, the place is classy and beautiful, but they most certainly target the uber whealthy not the common joe that wants to go all out every once in a while.	ambience	positive
+137	yes, the place is classy and beautiful, but they most certainly target the uber whealthy not the common joe that wants to go all out every once in a while.	restaurant	negative
+138	the appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each).	food	neutral
+139	the appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each).	service	positive
+140	i have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which i would expect at a upscale indian restaurant but this place doesn't have an upscale feel.	restaurant	neutral
+141	i have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which i would expect at a upscale indian restaurant but this place doesn't have an upscale feel.	food	negative
+142	i have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which i would expect at a upscale indian restaurant but this place doesn't have an upscale feel.	ambience	negative
+143	but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food	food	positive
+144	but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food	restaurant	negative
+145	not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city.	location	neutral
+146	not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city.	ambience	positive
+147	price is high but the food is good, so i would come back again.	food	neutral
+148	price is high but the food is good, so i would come back again.	restaurant	positive
+149	the food was great and tasty, but the sitting space was too small, i don't like being cramp in a corner.	food	positive
+150	the food was great and tasty, but the sitting space was too small, i don't like being cramp in a corner.	ambience	negative
+151	the food we ordered was excellent, although i wouldn't say the margaritas were anything to write home about.	food	positive
+152	the food we ordered was excellent, although i wouldn't say the margaritas were anything to write home about.	drinks	neutral
+153	a different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).	service	negative
+154	a different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).	food	positive
+155	overall the food quality was pretty good, though i hear the salmon is much better when it hasn't sat cooling in front of the guest.	food	positive
+156	overall the food quality was pretty good, though i hear the salmon is much better when it hasn't sat cooling in front of the guest.	service	negative
+157	the place has a nice fit-out, some attractive furnishings and, from what i could tell, a reasonable wine list (i was given the food menu when i asked for the carte des vins)	ambience	positive
+158	the place has a nice fit-out, some attractive furnishings and, from what i could tell, a reasonable wine list (i was given the food menu when i asked for the carte des vins)	drinks	positive
+159	the place has a nice fit-out, some attractive furnishings and, from what i could tell, a reasonable wine list (i was given the food menu when i asked for the carte des vins)	service	negative
+160	everything was going good until we got our meals.	restaurant	positive
+161	everything was going good until we got our meals.	food	negative
+162	the manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.	service	negative
+163	the manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.	drinks	positive
+164	the manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.	food	positive
+165	the decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 frickin hours to come!!!!	ambience	neutral
+166	the decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 frickin hours to come!!!!	food	negative
+167	the decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 frickin hours to come!!!!	service	negative
+168	though it's been crowded most times i've gone here, bark always delivers on their food.	food	positive
+169	though it's been crowded most times i've gone here, bark always delivers on their food.	restaurant	neutral
+170	fabulous food - if the front of house staff don't put you off –	food	positive
+171	fabulous food - if the front of house staff don't put you off –	service	negative
+172	each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	service	neutral
+173	each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	food	positive
+174	the food and service were fine, however the maitre-d was incredibly unwelcoming and arrogant.	food	positive
+175	the food and service were fine, however the maitre-d was incredibly unwelcoming and arrogant.	service	neutral
+176	at first glance this place seems a bit pricey for a hot dog joint, but at bark you don't just get your average hot dog.	restaurant	negative
+177	at first glance this place seems a bit pricey for a hot dog joint, but at bark you don't just get your average hot dog.	food	positive
+178	nice ambience, but highly overrated place.	ambience	positive
+179	nice ambience, but highly overrated place.	restaurant	negative
+180	i liked the atmosphere very much but the food was not worth the price.	ambience	positive
+181	i liked the atmosphere very much but the food was not worth the price.	food	negative
+182	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	food	positive
+183	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	drinks	positive
+184	the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	service	negative
+185	unless you are just stopping in for a few drinks i wouldn't recommend going here.	drinks	positive
+186	unless you are just stopping in for a few drinks i wouldn't recommend going here.	restaurant	negative
+187	excellent food, nice ambience, fairly expensive	food	positive
+188	excellent food, nice ambience, fairly expensive	ambience	positive
+189	excellent food, nice ambience, fairly expensive	restaurant	negative
+190	it's located in a strip mall near the beverly center, not the greatest location, but the food keeps me coming back for more.	location	neutral
+191	it's located in a strip mall near the beverly center, not the greatest location, but the food keeps me coming back for more.	food	positive
+192	space was limited, but the food made up for it.	restaurant	negative
+193	space was limited, but the food made up for it.	food	positive
+194	if i want to stand in line on sunday for an hour to get average brunch food, then i would put murphy's at the top of the list.	food	neutral
+195	if i want to stand in line on sunday for an hour to get average brunch food, then i would put murphy's at the top of the list.	service	negative
+196	the regular menu here is slightly above average that is not worth the snotty attitude that you receive.	food	neutral
+197	the regular menu here is slightly above average that is not worth the snotty attitude that you receive.	service	negative
+198	the only positive thing about mioposto is the nice location.	location	positive
+199	the only positive thing about mioposto is the nice location.	restaurant	negative
+200	the food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.	food	neutral
+201	the food was ok, but the service was so poor that the food was cold buy the time everyone in my party was served.	service	negative
+202	when i got there i sat up stairs where the atmosphere was cozy & the service was horrible!	ambience	positive
+203	when i got there i sat up stairs where the atmosphere was cozy & the service was horrible!	service	negative
+204	great pizza, poor service	food	positive
+205	great pizza, poor service	service	negative
+206	many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.	food	positive
+207	many people talk about the great pizza and poor service, so it can't just be the rantings of a few dissatisfied customers.	service	negative
+208	it's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.	restaurant	positive
+209	it's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.	service	negative
+210	terrible service, food ok, pricey	service	negative
+211	terrible service, food ok, pricey	food	neutral
+212	terrible service, food ok, pricey	restaurant	negative
+213	food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	food	neutral
+214	food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	restaurant	negative
+215	food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	ambience	neutral
+216	– schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	location	positive
+217	– schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	food	neutral
+218	– schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	service	negative
+219	while this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	food	positive
+220	while this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	service	negative
+221	good food, great service, average prices (for the strip)	food	positive
+222	good food, great service, average prices (for the strip)	service	positive
+223	good food, great service, average prices (for the strip)	restaurant	neutral
+224	the dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).	restaurant	neutral
+225	the dinner only took us about an hour and the prices were alright for the strip, almost $50/pp after tax and tip (about average).	service	positive
+226	the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced ihop with a high brow menu.	ambience	positive
+227	the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced ihop with a high brow menu.	food	negative
+228	the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there; but peel back the layers and you have an overpriced ihop with a high brow menu.	restaurant	negative
+229	our server continued to be attentive throughout the night, but i did remain puzzled by one issue:  who thinks that ray's is an appropriate place to take young children for dinner?	service	positive
+230	our server continued to be attentive throughout the night, but i did remain puzzled by one issue:  who thinks that ray's is an appropriate place to take young children for dinner?	restaurant	neutral
+231	while i could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.	service	positive
+232	while i could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.	food	positive
+233	while i could have done without the youth who shared the evening with us, our wonderful server and food made the experience a very positive one.	restaurant	negative
