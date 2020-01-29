@@ -13,6 +13,7 @@
 ### Aspect-Category Sentiment Classification Models
 #### Supported models
 Heat(papers/2017-CIKM-Aspect-level Sentiment Classification with HEAT (HiErarchical ATtention) Network.pdf)
+![heat](./images/heat.svg)
 #### Training
 sh scripts/run.sh acsa/acac_pytorch/acsc_bootstrap.py --model_name Heat --embedding_filepath glove.840B.300d.txt
 
