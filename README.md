@@ -12,14 +12,14 @@
 ## Usage
 ### Aspect-Category Sentiment Classification Models
 #### Supported models
-- [ae-lstm](https://www.aclweb.org/anthology/D16-1058.pdf)
-![ae-lstm](./images/ae-lstm.svg)
-- [at-lstm](https://www.aclweb.org/anthology/D16-1058.pdf)
-![at-lstm](./images/at-lstm.svg)
-- [atae-lstm](https://www.aclweb.org/anthology/D16-1058.pdf)
-![atae-lstm](./images/atae-lstm.svg)
+- ae-lstm [Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058.pdf)
+![ae-lstm](images/ae-lstm.png)
+- at-lstm [Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058.pdf)
+![at-lstm](images/at-lstm.png)
+- atae-lstm [Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058.pdf)
+![atae-lstm](images/atae-lstm.png)
 - Heat(papers/2017-CIKM-Aspect-level Sentiment Classification with HEAT (HiErarchical ATtention) Network.pdf)
-![heat](./images/heat.svg)
+![heat](images/heat.png)
 #### Training
 sh scripts/run.sh acsa/acac_pytorch/acsc_bootstrap.py --model_name Heat --embedding_filepath glove.840B.300d.txt
 
