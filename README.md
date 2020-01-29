@@ -10,7 +10,7 @@
 * allennlp 0.9.0
 
 ## Usage
-### Aspect-Category Sentiment Classification Models
+### Aspect-Category Sentiment Classification (ACSC) Models
 #### Supported models
 - ae-lstm [Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058.pdf)
 ![ae-lstm](images/ae-lstm.png)
@@ -25,6 +25,11 @@ sh scripts/run.sh acsa/acac_pytorch/acsc_bootstrap.py --model_name Heat --embedd
 
 #### visualization
 sh scripts/run.sh acsa/acac_pytorch/acsc_bootstrap.py --model_name Heat --embedding_filepath glove.840B.300d.txt --train False --visualize_attention True
+
+### Aspect Category Detection (ACD) Models
+
+### Joint Models for ACSC and ACD
+
 
 ## Contributions
 
