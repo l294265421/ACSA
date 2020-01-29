@@ -17,7 +17,7 @@ from acsa.utils import tokenizers
 from acsa.utils import tokenizer_wrappers
 
 
-task_dir = common_path.get_task_data_dir('absa')
+task_dir = common_path.get_task_data_dir()
 
 
 class ModelTrainTemplate:
