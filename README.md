@@ -24,7 +24,7 @@
     - SemEval-2015-Task-12-LAPT
     - SemEval-2015-Task-12-REST
     - SemEval-2015-Task-12-HOTEL
-- [SemEval-2016 Task 5] (http://alt.qcri.org/semeval2016/task5/)
+- [SemEval-2016 Task 5](http://alt.qcri.org/semeval2016/task5/)
     - SemEval-2016-Task-5-CH-CAME-SB1
     - SemEval-2016-Task-5-CH-PHNS-SB1
     - SemEval-2016-Task-5-LAPT-SB1
