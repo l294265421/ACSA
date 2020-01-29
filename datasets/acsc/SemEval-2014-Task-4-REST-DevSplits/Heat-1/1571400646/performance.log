@@ -1,0 +1,91 @@
+acsc_templates.py-126-2020-01-29 14:30:47,632-n_trainable_params: 137091, n_nontrainable_params: 1515900
+acsc_templates.py-127-2020-01-29 14:30:47,632-> training arguments:
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> current_dataset: SemEval-2014-Task-4-REST-DevSplits
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> task_name: acsc
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> model_name: Heat
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> timestamp: 1571400646
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> train: True
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> repeat: 1
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> epochs: 100
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> batch_size: 64
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> patience: 10
+acsc_templates.py-129-2020-01-29 14:30:47,633->>> visualize_attention: False
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> embedding_filepath: D:\program\word-vector\glove.840B.300d.txt
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> embed_size: 300
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> seed: 776
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> device: cpu
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> gpu_id: 0
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> token_min_padding_length: 5
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> debug: False
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> early_stopping_by_batch: False
+acsc_templates.py-129-2020-01-29 14:30:47,634->>> model_name_complete: Heat-1
+acsc_templates.py-126-2020-01-29 14:32:44,123-n_trainable_params: 137091, n_nontrainable_params: 1515900
+acsc_templates.py-127-2020-01-29 14:32:44,123-> training arguments:
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> current_dataset: SemEval-2014-Task-4-REST-DevSplits
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> task_name: acsc
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> model_name: Heat
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> timestamp: 1571400646
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> train: True
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> repeat: 1
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> epochs: 100
+acsc_templates.py-129-2020-01-29 14:32:44,123->>> batch_size: 64
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> patience: 10
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> visualize_attention: False
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> embedding_filepath: D:\program\word-vector\glove.840B.300d.txt
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> embed_size: 300
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> seed: 776
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> device: cpu
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> gpu_id: 0
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> token_min_padding_length: 5
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> debug: False
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> early_stopping_by_batch: False
+acsc_templates.py-129-2020-01-29 14:32:44,124->>> model_name_complete: Heat-1
+allennlp_callback.py-38-2020-01-29 14:32:55,996-epoch: 0 data_type: train result: {'sentiment_acc': 0.6527501656726309}
+allennlp_callback.py-38-2020-01-29 14:32:56,788-epoch: 0 data_type: dev result: {'sentiment_acc': 0.63}
+allennlp_callback.py-38-2020-01-29 14:32:58,236-epoch: 0 data_type: test result: {'sentiment_acc': 0.7132579650565262}
+allennlp_callback.py-38-2020-01-29 14:33:09,106-epoch: 1 data_type: train result: {'sentiment_acc': 0.7369118621603711}
+allennlp_callback.py-38-2020-01-29 14:33:09,889-epoch: 1 data_type: dev result: {'sentiment_acc': 0.712}
+allennlp_callback.py-38-2020-01-29 14:33:11,233-epoch: 1 data_type: test result: {'sentiment_acc': 0.7923946557040082}
+allennlp_callback.py-38-2020-01-29 14:33:22,018-epoch: 2 data_type: train result: {'sentiment_acc': 0.7607687210072896}
+allennlp_callback.py-38-2020-01-29 14:33:22,794-epoch: 2 data_type: dev result: {'sentiment_acc': 0.74}
+allennlp_callback.py-38-2020-01-29 14:33:24,204-epoch: 2 data_type: test result: {'sentiment_acc': 0.8067831449126414}
+allennlp_callback.py-38-2020-01-29 14:33:34,900-epoch: 3 data_type: train result: {'sentiment_acc': 0.7839628893306826}
+allennlp_callback.py-38-2020-01-29 14:33:35,640-epoch: 3 data_type: dev result: {'sentiment_acc': 0.762}
+allennlp_callback.py-38-2020-01-29 14:33:37,037-epoch: 3 data_type: test result: {'sentiment_acc': 0.8252826310380267}
+allennlp_callback.py-38-2020-01-29 14:33:47,725-epoch: 4 data_type: train result: {'sentiment_acc': 0.8081510934393639}
+allennlp_callback.py-38-2020-01-29 14:33:48,573-epoch: 4 data_type: dev result: {'sentiment_acc': 0.766}
+allennlp_callback.py-38-2020-01-29 14:33:50,006-epoch: 4 data_type: test result: {'sentiment_acc': 0.8314491264131552}
+allennlp_callback.py-38-2020-01-29 14:34:00,873-epoch: 5 data_type: train result: {'sentiment_acc': 0.8267064280980781}
+allennlp_callback.py-38-2020-01-29 14:34:01,676-epoch: 5 data_type: dev result: {'sentiment_acc': 0.78}
+allennlp_callback.py-38-2020-01-29 14:34:03,136-epoch: 5 data_type: test result: {'sentiment_acc': 0.8263103802672148}
+allennlp_callback.py-38-2020-01-29 14:34:14,075-epoch: 6 data_type: train result: {'sentiment_acc': 0.8522200132538105}
+allennlp_callback.py-38-2020-01-29 14:34:14,882-epoch: 6 data_type: dev result: {'sentiment_acc': 0.75}
+allennlp_callback.py-38-2020-01-29 14:34:16,232-epoch: 6 data_type: test result: {'sentiment_acc': 0.8304213771839671}
+allennlp_callback.py-38-2020-01-29 14:34:26,943-epoch: 7 data_type: train result: {'sentiment_acc': 0.852882703777336}
+allennlp_callback.py-38-2020-01-29 14:34:27,750-epoch: 7 data_type: dev result: {'sentiment_acc': 0.76}
+allennlp_callback.py-38-2020-01-29 14:34:29,189-epoch: 7 data_type: test result: {'sentiment_acc': 0.8345323741007195}
+allennlp_callback.py-38-2020-01-29 14:34:40,102-epoch: 8 data_type: train result: {'sentiment_acc': 0.8764082173624917}
+allennlp_callback.py-38-2020-01-29 14:34:40,938-epoch: 8 data_type: dev result: {'sentiment_acc': 0.776}
+allennlp_callback.py-38-2020-01-29 14:34:42,308-epoch: 8 data_type: test result: {'sentiment_acc': 0.8386433710174718}
+allennlp_callback.py-38-2020-01-29 14:34:52,961-epoch: 9 data_type: train result: {'sentiment_acc': 0.8807157057654076}
+allennlp_callback.py-38-2020-01-29 14:34:53,813-epoch: 9 data_type: dev result: {'sentiment_acc': 0.778}
+allennlp_callback.py-38-2020-01-29 14:34:55,223-epoch: 9 data_type: test result: {'sentiment_acc': 0.8273381294964028}
+allennlp_callback.py-38-2020-01-29 14:35:05,939-epoch: 10 data_type: train result: {'sentiment_acc': 0.8952948972829688}
+allennlp_callback.py-38-2020-01-29 14:35:06,758-epoch: 10 data_type: dev result: {'sentiment_acc': 0.76}
+allennlp_callback.py-38-2020-01-29 14:35:08,177-epoch: 10 data_type: test result: {'sentiment_acc': 0.829393627954779}
+allennlp_callback.py-38-2020-01-29 14:35:19,257-epoch: 11 data_type: train result: {'sentiment_acc': 0.9058979456593771}
+allennlp_callback.py-38-2020-01-29 14:35:20,061-epoch: 11 data_type: dev result: {'sentiment_acc': 0.758}
+allennlp_callback.py-38-2020-01-29 14:35:21,507-epoch: 11 data_type: test result: {'sentiment_acc': 0.8252826310380267}
+allennlp_callback.py-38-2020-01-29 14:35:33,490-epoch: 12 data_type: train result: {'sentiment_acc': 0.904572564612326}
+allennlp_callback.py-38-2020-01-29 14:35:34,361-epoch: 12 data_type: dev result: {'sentiment_acc': 0.748}
+allennlp_callback.py-38-2020-01-29 14:35:35,859-epoch: 12 data_type: test result: {'sentiment_acc': 0.8252826310380267}
+allennlp_callback.py-38-2020-01-29 14:35:48,573-epoch: 13 data_type: train result: {'sentiment_acc': 0.9062292909211398}
+allennlp_callback.py-38-2020-01-29 14:35:49,383-epoch: 13 data_type: dev result: {'sentiment_acc': 0.756}
+allennlp_callback.py-38-2020-01-29 14:35:50,779-epoch: 13 data_type: test result: {'sentiment_acc': 0.8119218910585817}
+allennlp_callback.py-38-2020-01-29 14:36:01,680-epoch: 14 data_type: train result: {'sentiment_acc': 0.8976143141153081}
+allennlp_callback.py-38-2020-01-29 14:36:02,530-epoch: 14 data_type: dev result: {'sentiment_acc': 0.742}
+allennlp_callback.py-38-2020-01-29 14:36:03,953-epoch: 14 data_type: test result: {'sentiment_acc': 0.8047276464542652}
+acsc_templates.py-236-2020-01-29 14:36:10,623-metrics: {'best_epoch': 5, 'peak_cpu_memory_MB': 0, 'training_duration': '0:03:13.292942', 'training_start_epoch': 0, 'training_epochs': 14, 'epoch': 14, 'training_accuracy': 0.8917467848670246, 'training_loss': 0.15366651833755895, 'training_cpu_memory_MB': 0.0, 'validation_loss': 0, 'validation_accuracy': 0.742, 'best_validation_loss': 0, 'best_validation_accuracy': 0.78}
+acsc_templates.py-255-2020-01-29 14:36:14,864-data_type: train result: {'sentiment_acc': 0.8267064280980781}
+acsc_templates.py-255-2020-01-29 14:36:15,714-data_type: dev result: {'sentiment_acc': 0.78}
+acsc_templates.py-255-2020-01-29 14:36:17,163-data_type: test result: {'sentiment_acc': 0.8263103802672148}

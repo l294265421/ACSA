@@ -289,6 +289,93 @@ class Heat(TextAspectInSentimentOutModel):
         return metrics
 
 
+class AtaeLstm(TextAspectInSentimentOutModel):
+    def __init__(self, word_embedder: TextFieldEmbedder, aspect_embedder: TextFieldEmbedder,
+                 categories: list, polarities: list, vocab: Vocabulary, configuration: dict):
+        super().__init__(vocab)
+        self.configuration = configuration
+        self.word_embedder = word_embedder
+        self.aspect_embedder = aspect_embedder
+        self.categories = categories
+        self.polarites = polarities
+        self.category_num = len(categories)
+        self.polarity_num = len(polarities)
+        self.sentiment_loss = nn.CrossEntropyLoss()
+        self._accuracy = metrics.CategoricalAccuracy()
+
+        word_embedding_dim = word_embedder.get_output_dim()
+        aspect_word_embedding_dim = aspect_embedder.get_output_dim()
+        if self.configuration['model_name'] in ['ae-lstm', 'atae-lstm']:
+            lstm_input_size = word_embedding_dim + aspect_word_embedding_dim
+        else:
+            lstm_input_size = word_embedding_dim
+        num_layers = 1
+        hidden_size = 300
+        self.lstm = torch.nn.LSTM(lstm_input_size, hidden_size, batch_first=True,
+                                          bidirectional=False, num_layers=num_layers)
+        if self.configuration['model_name'] in ['at-lstm', 'atae-lstm']:
+            attention_input_size = word_embedding_dim + aspect_word_embedding_dim
+            self.sentiment_attention = AttentionInHtt(attention_input_size, lstm_input_size)
+            self.sentiment_fc = nn.Sequential(nn.Linear(hidden_size * 2, self.polarity_num))
+        else:
+            self.sentiment_attention = None
+            self.sentiment_fc = nn.Sequential(nn.Linear(hidden_size, self.polarity_num))
+
+    def forward(self, tokens: Dict[str, torch.Tensor], aspect: torch.Tensor, label: torch.Tensor,
+                sample: list) -> torch.Tensor:
+        mask = get_text_field_mask(tokens)
+        word_embeddings = self.word_embedder(tokens)
+
+        aspect_embeddings_single = self.aspect_embedder(aspect).squeeze(1)
+        aspect_repeat = {'aspect': aspect['aspect'].expand_as(tokens['tokens'])}
+        aspect_embeddings = self.aspect_embedder(aspect_repeat)
+
+        if self.configuration['model_name'] in ['ae-lstm', 'atae-lstm']:
+            lstm_input = torch.cat([aspect_embeddings, word_embeddings], dim=-1)
+        else:
+            lstm_input = word_embeddings
+        lstm_output, (lstm_hn, lstm_cn) = self.lstm(lstm_input)
+        lstm_hn = lstm_hn.squeeze(dim=0)
+
+        if self.configuration['model_name'] in ['at-lstm', 'atae-lstm']:
+            input_for_attention = torch.cat([aspect_embeddings, lstm_output], dim=-1)
+            alpha = self.sentiment_attention(input_for_attention, mask)
+            sentiment_output = self.element_wise_mul(lstm_output, alpha, return_not_sum_result=False)
+            sentiment_output = torch.cat([sentiment_output, lstm_hn], dim=-1)
+        else:
+            sentiment_output = lstm_hn
+        final_sentiment_output = self.sentiment_fc(sentiment_output)
+        final_sentiment_output_prob = torch.softmax(final_sentiment_output, dim=-1)
+        output = {'final_sentiment_output_prob': final_sentiment_output_prob}
+        if label is not None:
+            sentiment_loss = self.sentiment_loss(final_sentiment_output, label)
+            self._accuracy(final_sentiment_output, label)
+            output['loss'] = sentiment_loss
+
+        # visualize attention
+        if self.configuration['visualize_attention']:
+            for i in range(len(sample)):
+                words = sample[i][2]
+                attention_labels = [self.categories[sample[i][1][0]]]
+
+                visual_attentions = [alpha[i][: len(words)].detach().numpy()]
+                titles = ['true: %s - pred: %s - %s' % (str(label[i].detach().numpy()),
+                                                               str(final_sentiment_output_prob[i].detach().numpy()),
+                                                               str(self.polarites)
+                                                               )
+                          ]
+                attention_visualizer.plot_multi_attentions_of_sentence(words, visual_attentions, attention_labels,
+                                                                       titles)
+
+        return output
+
+    def get_metrics(self, reset: bool = False) -> Dict[str, float]:
+        metrics = {
+            'accuracy': self._accuracy.get_metric(reset),
+        }
+        return metrics
+
+
 class Estimator:
 
     def estimate(self, ds: Iterable[Instance]) -> dict:

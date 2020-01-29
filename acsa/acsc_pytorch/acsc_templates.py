@@ -268,3 +268,15 @@ class Heat(TextAspectInSentimentOutTrainTemplate):
 
     def _find_model_function_pure(self):
         return acsc_models.Heat
+
+
+class AtaeLstm(TextAspectInSentimentOutTrainTemplate):
+    """
+    2016-emnlp-Attention-based LSTM for Aspect-level Sentiment Classification
+    """
+
+    def __init__(self, configuration):
+        super().__init__(configuration)
+
+    def _find_model_function_pure(self):
+        return acsc_models.AtaeLstm

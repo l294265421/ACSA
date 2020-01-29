@@ -53,7 +53,9 @@ for i in range(args.repeat):
     configuration['model_name_complete'] = '%s-%d' % (args.model_name, args.repeat)
 
     model_name = configuration['model_name']
-    if model_name == 'Heat':
+    if model_name in ['ae-lstm', 'at-lstm', 'atae-lstm']:
+        template = acsc_templates.AtaeLstm(configuration)
+    elif model_name == 'Heat':
         template = acsc_templates.Heat(configuration)
     else:
         raise NotImplementedError(model_name)
