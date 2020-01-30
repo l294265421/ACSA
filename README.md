@@ -72,7 +72,7 @@ Suggestions about adding papers are welcomed!
 - 2019-naacl-Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence [paper](papers/2019-naacl-Utilizing%20BERT%20for%20Aspect-Based%20Sentiment%20Analysis%20via%20Constructing%20Auxiliary%20Sentence.pdf)
 - 2019-tkdd-Aspect Aware Learning for Aspect Category Sentiment Analysis [paper](papers/2019-tkdd-Aspect%20Aware%20Learning%20for%20Aspect%20Category%20Sentiment%20Analysis.pdf)
 
-### joint models
+### Joint Models
 - 2017-wsdm-Deep Memory Networks for Attitude Identification [paper](papers/2017-wsdm-Deep%20Memory%20Networks%20for%20Attitude%20Identification.pdf)
 - 2018-emnlp-Joint Aspect and Polarity Classification for Adpect-based Sentiment Analysis with End-to-End Neural Networks [paper](papers/2018-Joint%20Aspect%20and%20Polarity%20Classification%20for%20Adpect-based%20Sentiment%20Analysis%20with%20End-to-End%20Neural%20Networks.pdf)
 - 2019-www-Aspect-level Sentiment Analysis using AS-Capsules [paper](papers/2019-www-Aspect-level%20Sentiment%20Analysis%20using%20AS-Capsules.pdf)
