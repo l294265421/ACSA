@@ -55,6 +55,24 @@ sh scripts/run.sh acsa/acac_pytorch/acsc_bootstrap.py --model_name Heat --curren
 
 ### Joint Models for ACSC and ACD
 
+## Paper
+Suggestions about adding papers are welcomed!
+- 2016-emnlp-A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis
+- 2016-emnlp-Attention-based LSTM for Aspect-level Sentiment Classification
+- 2017-CIKM-Aspect-level Sentiment Classification with HEAT (HiErarchical ATtention) Network
+- 2017-wsdm-Deep Memory Networks for Attitude Identification
+- 2018-aaai-Learning to Attend via Word-Aspect Associative Fusion for Aspect-based Sentiment Analysis
+- 2018-acl-Aspect Based Sentiment Analysis with Gated Convolutional Networks
+- 2018-emnlp-Joint Aspect and Polarity Classification for Adpect-based Sentiment Analysis with End-to-End Neural Networks
+- 2019-AAAI-A Human-Like Semantic Cognition Network for Aspect-Level Sentiment Classification
+- 2019-conll-Learning to Detect Opinion Snippet for Aspect-Based Sentiment Analysis
+- 2019-emnlp-A Challenge Dataset and Effective Models for Aspect Based Sentiment Analysis
+- 2019-emnlp-A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis
+- 2019-emnlp-CAN Constrained Attention Networks for Multi-Aspect Sentiment Analysis
+- 2019-ijcai-Earlier Attention Aspect-Aware LSTM for Aspect Sentiment Analysis
+- 2019-naacl-Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence
+- 2019-tkdd-Aspect Aware Learning for Aspect Category Sentiment Analysis
+- 2019-www-Aspect-level Sentiment Analysis using AS-Capsules
 
 ## Contributions
 
