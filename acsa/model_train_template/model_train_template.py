@@ -31,33 +31,35 @@ class ModelTrainTemplate:
 
     def __init__(self, configuration: dict):
         self.configuration = configuration
-        self.base_data_dir = task_dir + ('{task_name}/{current_dataset}/{model_name_complete}/{timestamp}/'\
-            .format_map(self.configuration))
-        if os.path.exists(self.base_data_dir):
-            file_utils.rm_r(self.base_data_dir)
+        # different models addressing the same task on the same dataset should share same data
+        self.base_data_dir = task_dir + ('{task_name}/{current_dataset}/' \
+                                         .format_map(self.configuration))
         if not os.path.exists(self.base_data_dir):
             os.makedirs(self.base_data_dir)
+        self.embedding_matrix_file_path = self.base_data_dir + 'embedding_matrix'
+        self.keras_tokenizer_file_path = self.base_data_dir + 'keras_tokenizer'
 
-        self.model_dir = self.base_data_dir + 'models/'
+        self.model_dir = self.base_data_dir + (
+            '{model_name_complete}/{timestamp}/models/'.format_map(self.configuration))
+        if os.path.exists(self.model_dir):
+            file_utils.rm_r(self.model_dir)
         if not os.path.exists(self.model_dir):
             os.makedirs(self.model_dir)
         self.best_model_filepath = self.model_dir + self.configuration['model_name'] + '.hdf5'
         self.model_meta_data_filepath = self.model_dir + self.configuration['model_name'] + '.model_meta_data'
         self.model_meta_data = {}
         self.model = None
-        self.embedding_matrix_file_path = self.base_data_dir + 'embedding_matrix'
-        self.keras_tokenizer_file_path = self.base_data_dir + 'keras_tokenizer'
         if not self.configuration['train']:
             self._load_model_meta_data()
             self._load_model()
 
-        self.model_log_dir = self.base_data_dir + 'model-log'
+        self.model_log_dir = self.model_dir + 'model-log/'
         if not os.path.exists(self.model_log_dir):
             os.makedirs(self.model_log_dir)
 
         # log
         logger_name = 'performance'
-        log_filepath = self.base_data_dir + ('%s.log' % logger_name)
+        log_filepath = self.model_dir + ('%s.log' % logger_name)
         self.logger = logging.getLogger(logger_name)
         self.logger.propagate = False
         logging_level = logging.INFO
