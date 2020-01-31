@@ -39,8 +39,8 @@ class ModelTrainTemplate:
         self.embedding_matrix_file_path = self.base_data_dir + 'embedding_matrix'
         self.keras_tokenizer_file_path = self.base_data_dir + 'keras_tokenizer'
 
-        self.model_dir = self.base_data_dir + (
-            '{model_name_complete}/{timestamp}/models/'.format_map(self.configuration))
+        self.base_model_dir = self.base_data_dir + ('{model_name_complete}/{timestamp}/'.format_map(self.configuration))
+        self.model_dir = self.base_model_dir + 'models/'
         if os.path.exists(self.model_dir):
             file_utils.rm_r(self.model_dir)
         if not os.path.exists(self.model_dir):
@@ -53,13 +53,13 @@ class ModelTrainTemplate:
             self._load_model_meta_data()
             self._load_model()
 
-        self.model_log_dir = self.model_dir + 'model-log/'
+        self.model_log_dir = self.base_model_dir + 'model-log/'
         if not os.path.exists(self.model_log_dir):
             os.makedirs(self.model_log_dir)
 
         # log
         logger_name = 'performance'
-        log_filepath = self.model_dir + ('%s.log' % logger_name)
+        log_filepath = self.base_model_dir + ('%s.log' % logger_name)
         self.logger = logging.getLogger(logger_name)
         self.logger.propagate = False
         logging_level = logging.INFO
