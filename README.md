@@ -71,8 +71,8 @@ Suggestions about adding papers are welcomed!
 - 2019-ijcai-Earlier Attention Aspect-Aware LSTM for Aspect Sentiment Analysis [paper](papers/2019-ijcai-Earlier%20Attention%20Aspect-Aware%20LSTM%20for%20Aspect%20Sentiment%20Analysis.pdf)
 - 2019-naacl-Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence [paper](papers/2019-naacl-Utilizing%20BERT%20for%20Aspect-Based%20Sentiment%20Analysis%20via%20Constructing%20Auxiliary%20Sentence.pdf)
 - 2019-tkdd-Aspect Aware Learning for Aspect Category Sentiment Analysis [paper](papers/2019-tkdd-Aspect%20Aware%20Learning%20for%20Aspect%20Category%20Sentiment%20Analysis.pdf)
-- 2020-nlpcc-Sentence Constituent-Aware Aspect-Category Sentiment Analysis with Graph Attention Networks [paper](https://arxiv.org/abs/2010.01461)
-- 2020-emnlp-Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis [paper](https://arxiv.org/abs/2010.02656)
+- 2020-nlpcc-Sentence Constituent-Aware Aspect-Category Sentiment Analysis with Graph Attention Networks [paper](https://arxiv.org/abs/2010.01461) [code](https://github.com/l294265421/SCAN)
+- 2020-emnlp-Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis [paper](https://arxiv.org/abs/2010.02656) [code](https://github.com/l294265421/AC-MIMLLN)
 
 ### Joint Models
 - 2017-wsdm-Deep Memory Networks for Attitude Identification [paper](papers/2017-wsdm-Deep%20Memory%20Networks%20for%20Attitude%20Identification.pdf)
