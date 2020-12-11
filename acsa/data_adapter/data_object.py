@@ -1119,6 +1119,7 @@ class Semeval2016Task5RestSub1(Semeval2016Task5Sub1):
                         aspect_categories_temp[category].add(polarity)
                     for category, polarities in aspect_categories_temp.items():
                         if len(polarities) == 1:
+                            polarity = polarities.pop()
                             label.append((category, polarity))
                             distinct_categories.add(category)
                             distinct_polarities.add(polarity)
