@@ -43,7 +43,7 @@
 ![at-lstm](images/at-lstm.png)
 - atae-lstm [2016-emnlp-Attention-based LSTM for Aspect-level Sentiment Classification](https://www.aclweb.org/anthology/D16-1058.pdf)
 ![atae-lstm](images/atae-lstm.png)
-- Heat(papers/2017-CIKM-Aspect-level Sentiment Classification with HEAT (HiErarchical ATtention) Network.pdf)
+- Heat [2017-CIKM-Aspect-level Sentiment Classification with HEAT (HiErarchical ATtention) Network](papers/2017-CIKM-Aspect-level%20Sentiment%20Classification%20with%20HEAT%20(HiErarchical%20ATtention)%20Network.pdf)
 ![heat](images/heat.png)
 #### Training
 sh scripts/run.sh acsa/acac_pytorch/acsc_bootstrap.py --model_name Heat --current_dataset SemEval-2014-Task-4-REST-DevSplits --embedding_filepath glove.840B.300d.txt
