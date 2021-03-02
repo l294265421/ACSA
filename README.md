@@ -79,6 +79,7 @@ Suggestions about adding papers are welcomed!
 - 2018-emnlp-Joint Aspect and Polarity Classification for Adpect-based Sentiment Analysis with End-to-End Neural Networks [paper](papers/2018-Joint%20Aspect%20and%20Polarity%20Classification%20for%20Adpect-based%20Sentiment%20Analysis%20with%20End-to-End%20Neural%20Networks.pdf)
 - 2019-www-Aspect-level Sentiment Analysis using AS-Capsules [paper](papers/2019-www-Aspect-level%20Sentiment%20Analysis%20using%20AS-Capsules.pdf)
 - 2019-emnlp-CAN Constrained Attention Networks for Multi-Aspect Sentiment Analysis [paper](papers/2019-emnlp-CAN%20Constrained%20Attention%20Networks%20for%20Multi-Aspect%20Sentiment%20Analysis.pdf)
+- 2020-ccl-A Joint Model for Aspect-Category Sentiment Analysis with SharedSentiment Prediction Layer[paper](https://www.aclweb.org/anthology/2020.ccl-1.103.pdf)
 
 ## Related Repositories
 - [songyouwei/ABSA-PyTorch](https://github.com/songyouwei/ABSA-PyTorch)
